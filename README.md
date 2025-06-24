@@ -23,6 +23,4 @@ I am grateful to StaxTech for this opportunity and the guidance provided through
 I look forward to continuing my learning and contributing to more complex software development projects.
 
 Output of the project
-![Image](https://github.com/user-attachments/assets/4b8a14fc-eb27-4faa-b2db-41caf2ea024c)
 
-Output 
