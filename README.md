@@ -21,3 +21,8 @@ Practiced documenting code and managing versions using Git
 This project marks an important step in my journey as a Python developer. It gave me the confidence to take on more advanced programming challenges and also laid the foundation for building larger applications in the future.
 I am grateful to StaxTech for this opportunity and the guidance provided throughout the internship. 
 I look forward to continuing my learning and contributing to more complex software development projects.
+
+Output of the project
+![Image](https://github.com/user-attachments/assets/4b8a14fc-eb27-4faa-b2db-41caf2ea024c)
+
+Output 
